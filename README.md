@@ -1,8 +1,8 @@
 # Exp-06-Configuration-of-ADC-for-converting-analog-to-digital-signals
 
 
-### Name : VISHAL GOWTHAMAN K R
-### Roll no: 212221230123
+### Name : Kadin Samson 
+### Roll no: 212221230044
   
   
 ## Aim: 
